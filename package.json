@@ -1,0 +1,21 @@
+{
+  "name": "myexpresstryout",
+  "version": "1.0.0",
+  "description": "sample trying out express js",
+  "main": "app.js",
+  "scripts": {
+    "run_dev_server": "node app.js",
+    "dev_server": "node app.js"
+  },
+  "author": "Rakibul Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.3",
+    "morgan": "^1.10.0"
+  }
+}
